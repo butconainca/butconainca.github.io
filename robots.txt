@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://butconainca.github.io/sitemap
+Sitemap: https://butconainca.github.io/app/sitemap
+Sitemap: https://butconainca.github.io/assets/sitemap
+Sitemap: https://butconainca.github.io/css/sitemap
+Sitemap: https://butconainca.github.io/includes/sitemap
+Sitemap: https://butconainca.github.io/item/sitemap
+Sitemap: https://butconainca.github.io/src/sitemap
